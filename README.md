@@ -7,7 +7,7 @@
 
 <div1>
 <table border="1" height="100px" width="200px">
-(img align="right" alt="Coding" width="400" src="
+
 
 </tr>
 <tr>
