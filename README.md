@@ -33,10 +33,10 @@ objective
 <tr>
 <th>course/degree</th><th>college</th><th>university</th><th>year of passing</th><th>division/percentage/grade</th>
 </tr>
-<td>MCA</td><td>KIET group of institutions ghaziabad</td><td>AKTU</td><td>pursuing</td><td>pursuing</td>
+<td>MCA</td><td>KIET GROUP OF INSTITUTION GHAZIABAD</td><td>AKTU</td><td></td><td>pursuing</td>
 </tr>
 <tr>
-<td>BCA</td><td>Shri Krishna Institute Of Management And Science Chandausi</td><td>MJPRU</td><td>2021</td><td>66</td>
+<td>BCA</td><td>SHRI KRISHNA INSTITUTE OG MANAGEMENT AND SCIENCE CHANDAUSI</td><td>MJPRU</td><td>2021</td><td>66</td>
 </tr>
 </table>
 <h1>EDUCATION QUALIFICATIONS</h1>
@@ -49,7 +49,7 @@ objective
 <td>12th</td><td>S.S.P.SINGH INTER COLLEGE JABDI (AMROHA)</td><td>UP</td><td>2018</td><td>54</td>
 </tr>
 <tr>
-<td>10th</td><td>O.P.G.M. SR.SEC.SCHOOL BHAJOI ROAD CHANDAUSI (SAMBHAL)</td><td>UP</td><td>2016</td><td>60</td>
+<td>10th</td><td>O.P.G.M. SR.SEC.SCHOOL BHAJOI ROAD CHANDAUSI (SAMBHAL)</td><td>UP</td><td>2016</td><td>6.4</td>
 </tr>
 </table>
 <h1>Hobbies</h1>
