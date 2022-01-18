@@ -7,7 +7,8 @@
 
 <div1>
 <table border="1" height="100px" width="200px">
-<tr><img src="  " width="150px" height="150px"></td></p></div>
+(img align="right" alt="Coding" width="400" src="
+
 </tr>
 <tr>
 <td>ADDRESS</td><td style="padding:10px">:&nbsp&nbsp&nbsp&nbsp VEER SAWARKAR NAGAR , MORADABAD ROAD , CHANDAUSI , DISTT - SAMBHAL</td>
