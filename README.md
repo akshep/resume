@@ -44,10 +44,10 @@ objective
 </tr>
 <td>
 <tr>
-<td>12th</td><td>S.S.P.SINGH INTER COLLEGE JABDI (AMROHA)</td><td>UP</td><td>2016</td><td>83</td>
+<td>12th</td><td>S.S.P.SINGH INTER COLLEGE JABDI (AMROHA)</td><td>UP</td><td>2018</td><td>83</td>
 </tr>
 <tr>
-<td>10th</td><td>O.P.G.M. SR.SEC.SCHOOL BHAJOI ROAD CHANDAUSI (SAMBHAL)</td><td>UP</td><td>2018</td><td>73</td>
+<td>10th</td><td>O.P.G.M. SR.SEC.SCHOOL BHAJOI ROAD CHANDAUSI (SAMBHAL)</td><td>UP</td><td>2016</td><td>73</td>
 </tr>
 </table>
 <h1>Hobbies</h1>
