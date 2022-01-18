@@ -68,7 +68,7 @@ objective
 <td>Gender</td><td  style="padding:10px">:&nbsp&nbsp&nbsp&nbspMale</td>
 </tr>
 <tr> 
-<td>Father's</td><td  style="padding:10px">:&nbsp&nbsp&nbsp&nbspARJUN SINGH &nbsp&nbsp&nbsp&nbsp </td>
+<td>Father's Name</td><td  style="padding:10px">:&nbsp&nbsp&nbsp&nbspARJUN SINGH &nbsp&nbsp&nbsp&nbsp </td>
 </tr>
 <tr>
 <td>DOB</td><td  style="padding:10px">:&nbsp&nbsp&nbsp&nbsp23/02/2001</td>
