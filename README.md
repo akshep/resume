@@ -23,7 +23,7 @@
 </table>
 
 <h1>
-objective
+Objective
 </h1>
 <p style="border:5px solid black">To secure a position challenging as a public relation in order to utilize  my administrative,  inter personl skills with the accuracy and contribute <br> significantly in the goverment run programs and attrain the career targets
 </p>
