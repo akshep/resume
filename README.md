@@ -31,9 +31,9 @@ Objective
 <h1>Professional Qualifications</h1>
 <table border="1">
 <tr>
-<th>course/degree</th><th>college</th><th>university</th><th>year of passing</th><th>division/percentage/grade</th>
+<th>Course/Degree</th><th>College</th><th>University</th><th>Year Of Passing</th><th>Division/Percentage/Grade</th>
 </tr>
-<td>MCA</td><td>KIET GROUP OF INSTITUTION GHAZIABAD</td><td>AKTU</td><td></td><td>pursuing</td>
+<td>MCA</td><td>KIET GROUP OF INSTITUTION GHAZIABAD</td><td>AKTU</td><td></td><td>Pursuing</td>
 </tr>
 <tr>
 <td>BCA</td><td>SHRI KRISHNA INSTITUTE OG MANAGEMENT AND SCIENCE CHANDAUSI</td><td>MJPRU</td><td>2021</td><td>66</td>
