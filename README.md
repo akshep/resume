@@ -33,7 +33,7 @@ Objective
 <tr>
 <th>Course/Degree</th><th>College</th><th>University</th><th>Year Of Passing</th><th>Division/Percentage/Grade</th>
 </tr>
-<td>MCA</td><td>KIET GROUP OF INSTITUTION GHAZIABAD</td><td>AKTU</td><td></td><td>Pursuing</td>
+<td>MCA</td><td>KIET GROUP OF INSTITUTION GHAZIABAD</td><td>AKTU</td><td>2023</td><td>70</td>
 </tr>
 <tr>
 <td>BCA</td><td>SHRI KRISHNA INSTITUTE OG MANAGEMENT AND SCIENCE CHANDAUSI</td><td>MJPRU</td><td>2021</td><td>66</td>
