@@ -15,7 +15,7 @@
 <td>ADDRESS</td><td style="padding:10px">:&nbsp&nbsp&nbsp&nbsp VEER SAWARKAR NAGAR , MORADABAD ROAD , CHANDAUSI , DISTT - SAMBHAL</td>
 </tr>
 <tr>
-<td>E-MAIL</td><td style="padding:10px">:&nbsp&nbsp&nbsp&nbsp<u>akshep9359@gmail.com</u></td>
+<td>E-MAIL</td><td style="padding:10px">:&nbsp&nbsp&nbsp&nbsp<u>akshepkietmca@gmail.com</u></td>
 </tr>
 <tr>
 <td>phone no</td><td>:&nbsp&nbsp&nbsp&nbsp9359395940</td>
